@@ -9,8 +9,6 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>abc-baseframework</module>
-        <module>abc-wms</module>
-        <module>abc-tms</module>
     </modules>
     <packaging>pom</packaging>
 

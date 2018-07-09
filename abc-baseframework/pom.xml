@@ -16,6 +16,7 @@
         <module>abc-baseframework-tool</module>
         <module>abc-baseframework-caching</module>
         <module>abc-baseframework-betn</module>
+        <module>abc-baseframework-mq</module>
     </modules>
 
 </project>

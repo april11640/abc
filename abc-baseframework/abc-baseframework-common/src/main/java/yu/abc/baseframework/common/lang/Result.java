@@ -28,11 +28,6 @@ public class Result<T> implements Serializable {
 	public static final String INTERNAL_SERVER_ERROR_MSG = "内部服务错误";
 
 	/**
-	 * 用户登录一定要指定相应的仓库
-	 */
-	public static final String WAREHOUSE_ID_CAN_NOT_NULL = "必须指定仓库id";
-
-	/**
 	 * 无效的请求错误码
 	 */
 	public static final String BAD_REQUEST = "bad-request";
